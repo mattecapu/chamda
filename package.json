@@ -12,6 +12,10 @@
     "chainable"
   ],
   "author": "Matteo Capucci <mattecapu@live.it>",
+  "repository": {
+      "url": "https://github.com/mattecapu/chamda.git",
+      "type": "git"
+  },
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.4.5",
