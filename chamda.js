@@ -17,4 +17,9 @@ function Chamda(data) {
     this.end = () => data;
 }
 
+// fast-food export
 export default Chamda__factory;
+
+// named exports
+export {R as R};
+export {Chamda__factory as cR};
